@@ -1,11 +1,14 @@
-# MTG card retreiver
+# MTG trade tool
 ---
-Description:
-We want a tool to see if people have cards in their collections based on a decklist.
+We want a tool to see if people have cards in their Archideckt collections based on a decklist.
 ---
-todo:
-1. Check what Axel made
-2. (Test the scryfall api to retreive the images of cards)
-3. Create a gui which allows you to import a decklist in text format and is able to display cards in your list that match cards in peoples collection.
-   1. This will be done using the archideckt collection api
+## TODOs:
+- [X] Check what Axel made.
+- [ ] Create a gui which allows you to: 
+   - [ ] Add/remove Archidekt collections
+   - [ ] Import a decklist in text format
+   - [ ] Display cards in your list that match cards in peoples collection
+- [ ] (Test the scryfall api to retreive the images of cards)
 ---
+## Future Features
+* Choose inbetween image/text based view
